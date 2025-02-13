@@ -11,4 +11,4 @@
 <h2>about</h2>
 ★ welcome to my github, i will mainly work on personal projects here ★
 <br>
-★ currently learning html, css and js ★
+★ currently learning html, css and javascript ★
