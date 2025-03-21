@@ -9,6 +9,6 @@
 </pre>
 
 <h2>about</h2>
-★ welcome to my github, i will mainly work on personal projects here ★
+★ welcome to my github, i will mainly work on school projects here ★
 <br>
-★ currently learning html, css and javascript ★
+★ currently learning html, css ★
